@@ -31,7 +31,7 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 ## `Materiais`
 
-✓		[Apresentação]([https://www.canva.com/design/DAFjr-dTcOA/CvEBhFhm-vf82DmE6zgPnA/edit?utm_content=DAFjr-dTcOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFsdlcdgGQ/p7vdjpNEoGmC_RCAOkdYIA/edit?utm_content=DAFsdlcdgGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+✓		[Apresentação](https://www.canva.com/design/DAFsdlcdgGQ/p7vdjpNEoGmC_RCAOkdYIA/edit?utm_content=DAFsdlcdgGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## 💻 Demonstração

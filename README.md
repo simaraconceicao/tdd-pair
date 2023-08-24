@@ -27,11 +27,11 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 ✓		Farei a demonstração dos exemplos de soma e fizzbuzz
 
-✓		Teremos um tempo para formar pares e resolver juntes o exercício de Queue
+✓		Para casa, formar pares e resolver juntes o exercício de Queue e Calculadora
 
 ## `Materiais`
 
-✓		[Apresentação](https://www.canva.com/design/DAFjr-dTcOA/CvEBhFhm-vf82DmE6zgPnA/edit?utm_content=DAFjr-dTcOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+✓		[Apresentação]([https://www.canva.com/design/DAFjr-dTcOA/CvEBhFhm-vf82DmE6zgPnA/edit?utm_content=DAFjr-dTcOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFsdlcdgGQ/p7vdjpNEoGmC_RCAOkdYIA/edit?utm_content=DAFsdlcdgGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 
 ## 💻 Demonstração
@@ -46,6 +46,8 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 - Se for múltiplo de 5 retorna 'Buzz'
 - Se for múltimo de 3 e 5 retorna 'FizzBuzz'
 
+
+
 ## 💻 Desafio
 ### Create Queue
 
@@ -53,6 +55,13 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 - add(item) Deve ser capaz de adicionar um item na fila
 - peek() Deve escolher o primeiro item da fila
 - dequeue() Deve remover o primeiro item da fila
+
+### Calculadora
+- Recebe dois inteiros
+- Deve ser capaz de somar
+- Deve ser capaz de multiplicar
+- Deve ser capaz de subtrair
+- Deve ser capaz de dividir
 
 ### Regras
 - O exercício deve ser feito em pares, escolhendo uma das técnicas que aprensetei(ping-pong, driver/navigator etc.)
